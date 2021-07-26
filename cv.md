@@ -18,3 +18,12 @@ Contacts:
    ### Code examples:
    - [java code](https://github.com/Eger2233/Rep)
    - [java code2](https://github.com/Eger2233/Lab2_C_Rep)
+     ### Education:
+
+  - A course of lectures on applied programming in java.
+  - Self education in *SQL*, *C++*.
+  - A student of Rolling Scopes school course in Front-end dev organized by EPAM
+
+
+   ### English
+   English knowlege is on B2-C1 level. Have a lot of expirience talking to foreigners via a wide spectre of messengers on daily basis.
